@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning in Data Science
 - 💞️ I’m looking to collaborate on in Data Science Projects
-- 📫 reach me loksundar000@gmail.com, 7032071160
+- 📫 reach me loksundar000@gmail.com, 4697836696
 
 <!---
 loksundar/loksundar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
